@@ -13,4 +13,4 @@ layout edition will be covered.
 
 The software aims to support all kinds of circuit simulation types, e.g. DC, AC, S-parameter and harmonic balance analysis.
 
-![Caneda sample screenshots](./images/caneda.png)
+![Caneda sample screenshots ](./images/caneda.png){:width="100%"}
