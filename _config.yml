@@ -1,7 +1,7 @@
 # Site settings
 title: Caneda
 email: parejaobregon@gmail.com
-description: "Caneda (Circuits and Networks Electronics Design Automation) is an open source EDA software focused on easy of use and portability."
+description: "Caneda (Circuits and Networks Electronic Design Automation) is an open source EDA software focused on easy of use and portability."
 baseurl: ""
 url: "http://caneda.github.io"
 github_username:  Caneda
