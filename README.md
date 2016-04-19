@@ -1,0 +1,12 @@
+---
+layout: default
+title: Caneda
+---
+
+Caneda is an open source EDA software suite focused on ease of use and portability.
+
+Its main goal is to handle the complete design process: schematic capture, simulation and circuit layout or PCB.
+
+Caneda aims to support all kinds of circuit simulation types, e.g. DC, AC, S-parameter and harmonic balance analysis.
+
+![Caneda sample screenshots ](./images/caneda.png){:width="100%"}
