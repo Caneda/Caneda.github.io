@@ -16,11 +16,11 @@ Adding Documentation
 --------------------
 To add new documents, simply create a new ``webpage.md`` file (or edit an existing one) and push your changes to the repository. The only requirement to your new file is to include a ``layout`` section at the beginning of the file, for example:
 
-   ---
-   layout: page
-   title: About
-   permalink: /about/
-   ---
+    ---
+    layout: page
+    title: About
+    permalink: /about/
+    ---
 
 To review your changes before commiting, run the following command from a terminal:
 
